@@ -21,7 +21,7 @@ For remote MySQL server you need to change:
 
 Simply run:
 
-docker-compose up 
+	docker-compose up 
 
 **How to launch the software**:
 
