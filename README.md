@@ -24,7 +24,7 @@ docker-compose up
 
 **How to launch the software**:
 
-Use scripts OpenHospital.sh (Linux) or OpenHospital.cmd (Windows)
+Use scripts startup.sh (Linux) or startup.cmd (Windows)
 
 **Other info**
 
